@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66f89310-ec92-42d7-821d-6a5c39d8e507" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Seção 5/exercicio03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 5/exercicio04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 5/exercicio05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 5/exercicio06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 5/exercicio07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 5/exercicio08.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +16,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Seção 5/exercicio08.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,6 +37,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d6dd64b0-6fec-4cc0-87b1-a329671ac084" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,6 +88,11 @@
         <option value="$PROJECT_DIR$/Seção 5/exercicio01.py" />
         <option value="$PROJECT_DIR$/Seção 5/exercicio02.py" />
         <option value="$PROJECT_DIR$/Seção 5/exercicio03.py" />
+        <option value="$PROJECT_DIR$/Seção 5/exercicio04.py" />
+        <option value="$PROJECT_DIR$/Seção 5/exercicio05.py" />
+        <option value="$PROJECT_DIR$/Seção 5/exercicio06.py" />
+        <option value="$PROJECT_DIR$/Seção 5/exercicio07.py" />
+        <option value="$PROJECT_DIR$/Seção 5/exercicio08.py" />
       </list>
     </option>
   </component>
@@ -107,7 +129,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -126,8 +148,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercicio03">
-    <configuration name="exercicio01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.exercicio08">
+    <configuration name="exercicio04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5/exercicio01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5/exercicio04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercicio05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,7 +182,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5/exercicio02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5/exercicio05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercicio06" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,7 +203,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5/exercicio03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5/exercicio06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio52" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercicio07" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,11 +220,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio52.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5/exercicio07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio53" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercicio08" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,11 +241,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio53.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5/exercicio08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercicio03" />
-        <item itemvalue="Python.exercicio02" />
-        <item itemvalue="Python.exercicio01" />
-        <item itemvalue="Python.exercicio53" />
-        <item itemvalue="Python.exercicio52" />
+        <item itemvalue="Python.exercicio08" />
+        <item itemvalue="Python.exercicio07" />
+        <item itemvalue="Python.exercicio06" />
+        <item itemvalue="Python.exercicio05" />
+        <item itemvalue="Python.exercicio04" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553435324431</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sec05ex03">
+      <created>1553475605004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553475605004</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -294,7 +323,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289183" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3156733" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -409,6 +438,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Seção 5/exercicio02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Seção 5/exercicio03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -416,10 +452,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Seção 5/exercicio02.py">
+    <entry file="file://$PROJECT_DIR$/Seção 5/exercicio05.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seção 5/exercicio04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seção 5/exercicio07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seção 5/exercicio06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="62" lean-forward="true" selection-end-line="8" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seção 5/exercicio08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
