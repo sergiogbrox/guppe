@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="66f89310-ec92-42d7-821d-6a5c39d8e507" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testes/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testes/teste.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +12,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Testes/teste.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,7 +40,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/exercicio04.py" />
         <option value="$PROJECT_DIR$/exercicio06.py" />
         <option value="$PROJECT_DIR$/exercicio05.py" />
         <option value="$PROJECT_DIR$/exercicio07.py" />
@@ -80,6 +90,7 @@
         <option value="$PROJECT_DIR$/Seção 5/exercicio12.py" />
         <option value="$PROJECT_DIR$/Seção 5/exercicio13.py" />
         <option value="$PROJECT_DIR$/Seção 5/exercicio14.py" />
+        <option value="$PROJECT_DIR$/Testes/teste.py" />
       </list>
     </option>
   </component>
@@ -96,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,11 +120,15 @@
               <item name="guppe" type="462c0819:PsiDirectoryNode" />
               <item name="Seção 5" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="guppe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guppe" type="462c0819:PsiDirectoryNode" />
+              <item name="Testes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,28 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercicio14">
-    <configuration name="exercicio10" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="guppe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5/exercicio10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.teste">
     <configuration name="exercicio11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,13 +236,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="guppe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testes/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.teste" />
         <item itemvalue="Python.exercicio14" />
         <item itemvalue="Python.exercicio13" />
         <item itemvalue="Python.exercicio12" />
         <item itemvalue="Python.exercicio11" />
-        <item itemvalue="Python.exercicio10" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +313,28 @@
       <option name="project" value="LOCAL" />
       <updated>1553481786375</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="sec05ex14">
+      <created>1553651783545</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553651783545</updated>
+    </task>
+    <task id="LOCAL-00007" summary="sec05ex14">
+      <created>1553651861673</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553651861673</updated>
+    </task>
+    <task id="LOCAL-00008" summary="sec05ex14">
+      <created>1553651873630</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553651873630</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -317,14 +354,14 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3156733" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49918962" weight="0.3156733" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955848" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32929516" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32781458" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289183" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32929516" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49918962" weight="0.3289183" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49756888" visible="true" weight="0.32671082" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49918962" weight="0.3289183" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5008104" side_tool="true" weight="0.3156733" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -380,10 +417,10 @@
     <MESSAGE value="sec05ex02" />
     <MESSAGE value="sec05ex03" />
     <MESSAGE value="sec05ex08" />
-    <option name="LAST_COMMIT_MESSAGE" value="sec05ex08" />
+    <MESSAGE value="sec05ex14" />
+    <option name="LAST_COMMIT_MESSAGE" value="sec05ex14" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exercicio06.py" />
     <entry file="file://$PROJECT_DIR$/exercicio07.py" />
     <entry file="file://$PROJECT_DIR$/exercicio08.py" />
     <entry file="file://$PROJECT_DIR$/exercicio09.py" />
@@ -515,6 +552,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testes/teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
